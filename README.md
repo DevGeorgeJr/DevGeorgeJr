@@ -1,4 +1,4 @@
-# :bar_chart: DevGeorgeJr
+# :computer: DevGeorgeJr
 
 **`Software Engineer`**
 
@@ -15,6 +15,8 @@ I'm a full-stack developer with a Bachelor's Degree in Computer Engineering. I h
              src="https://custom-icon-badges.demolab.com/github/stars/DevGeorgeJr?color=55960c&style=for-the-badge&labelColor=488207&logo=star">
     </a>
 </p>
+
+---
 
 ### 🧰 Languages and Tools
           
@@ -33,5 +35,10 @@ I'm a full-stack developer with a Bachelor's Degree in Computer Engineering. I h
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
+
+### :bar_chart: Stats
+![DevGeorgeJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgeorgejr&show_icons=true&theme=github_dark)
 
 #
